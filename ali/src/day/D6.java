@@ -14,7 +14,6 @@ public class D6 {
 
         int teil1 = search(4);
         int teil2 = search(14);
-
         System.out.format("Teil1: %s \nTeil2: %s ", teil1, teil2);
     }
 
