@@ -34,10 +34,10 @@ public class D5 {
         four.add("D");             five.add("H");                   six.add("G");
         four.add("S");             five.add("D");                   six.add("H");
         four.add("V");             five.add("R");                   six.add("C");
-                                   five.add("Q");                   six.add("M");
-                                   five.add("W");
-                                   five.add("N");
-                                   five.add("V");
+        five.add("Q");                   six.add("M");
+        five.add("W");
+        five.add("N");
+        five.add("V");
 
 
         seven.add("F");            eight.add("S");                  neun.add("L");
@@ -49,7 +49,7 @@ public class D5 {
         seven.add("H");                                             neun.add("V");
         seven.add("C");                                             neun.add("M");
 
-        
+
         Path path = Paths.get("C:\\Users\\273705\\Desktop\\AdventOfCode\\Doku\\Day5\\input.txt");
         List<String> all = new ArrayList<>(Files.readAllLines(path));
 
