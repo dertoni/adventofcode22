@@ -8,8 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class D8 {
-
-
+    
     public static void main(String[] args) throws IOException {
 
         Path path = Paths.get("C:\\Users\\273705\\Desktop\\AdventOfCode\\Doku\\Day8\\input.txt");
